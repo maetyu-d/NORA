@@ -1,11 +1,9 @@
-# Realtime Bytebeat Synth in C
+# NORA Bytebeat Synth
 
-A realtime digital synthesizer in C that:
-- accepts **bytebeat equations** written as JavaScript-style expressions/program snippets,
-- transpiles them to a C-style expression in realtime,
-- evaluates them in a low-latency audio callback,
-- includes **30 built-in famous-style bytebeat presets** you can switch instantly,
-- supports smooth realtime control of pitch and tempo.
+A real-time bytebeat synthesizer in C that:
+- Accepts bytebeat equations written as JavaScript-style expressions/program snippets, transpiles them to a C-style expression in realtime, then evaluates them in a low-latency audio callback.
+- Includes **30 built-in bytebeat presets** you can switch between instantly,
+- Offers smooth and direct, real-time control of pitch, tempo, and (up to) four other bytebeat equation variables.
 
 ## Build (macOS)
 
