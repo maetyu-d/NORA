@@ -5,6 +5,8 @@ Number-Operated Real-time Audio (NORA) is a real-time bytebeat synthesizer in C 
 - Includes 30 built-in bytebeat presets (based on well known examples) that you can switch between instantly.
 - Offers smooth and direct, real-time control of pitch, tempo, and (up to) four other bytebeat equation variables.
 
+![](https://github.com/maetyu-d/NORA/blob/main/Screenshot%202026-02-08%20at%2017.01.08.png)
+
 There's a short video demo [HERE](https://youtu.be/1mU3bytRPes) and you can download a Mac build (tested on Mac OS 13.7.8) [HERE](https://github.com/maetyu-d/NORA/releases), or follow the build instructions below.
 
 ## Build (macOS)
