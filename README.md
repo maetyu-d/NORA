@@ -5,7 +5,7 @@ A real-time bytebeat synthesizer in C that:
 - Includes 30 built-in bytebeat presets (based on well known examples) that you can switch between instantly.
 - Offers smooth and direct, real-time control of pitch, tempo, and (up to) four other bytebeat equation variables.
 
-There's a short video demo [HERE](https://youtu.be/1mU3bytRPes).
+There's a short video demo [HERE](https://youtu.be/1mU3bytRPes) and you can download a Mac build (tested on Mac OS 13.7.8) [HERE](https://github.com/maetyu-d/NORA/releases).
 
 ## Build (macOS)
 
